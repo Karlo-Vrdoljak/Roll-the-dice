@@ -1,7 +1,6 @@
 {
 	"name": "nibba-rolls-twice",
 	"version": "0.1.0",
-	"homepage": "https://Karlo-Vrdoljak.github.io/Roll-the-dice",
 	"private": true,
 	"dependencies": {
 		"@chakra-ui/icons": "^1.0.10",
@@ -23,9 +22,7 @@
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
-		"eject": "react-scripts eject",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -b main -d build"
+		"eject": "react-scripts eject"
 	},
 	"eslintConfig": {
 		"extends": [
